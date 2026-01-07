@@ -1,4 +1,4 @@
-# End-to-End Real-World Evidence (RWE) Analytics Pipeline – Healthcare
+# End-to-End Real-World Evidence (RWE) Analytics Pipeline using Healthcare data
 
 ## Overview
 This project demonstrates an **end-to-end Real-World Evidence (RWE) analytics workflow** using healthcare data. The objective is to replicate how RWE analysts generate clinical and population-level insights from real-world data to support pharmaceutical research, clinical decision-making, and healthcare analytics.
