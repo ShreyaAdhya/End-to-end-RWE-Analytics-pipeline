@@ -113,7 +113,6 @@ The pipeline demonstrates **end-to-end ownership of RWE analytics**, from raw he
 
 ## Future Extensions
 - Integration of claims or longitudinal EHR data
-- Neurology-specific outcome definitions
 - Validation against published epidemiological studies
 - Advanced survival and causal inference methods
 
