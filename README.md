@@ -120,7 +120,6 @@ The pipeline demonstrates **end-to-end ownership of RWE analytics**, from raw he
 
 ## How to Run
 ```bash
-pip install -r requirements.txt
 python analysis/epidemiology.py
 python analysis/outcomes.py
 python analysis/modeling.py
